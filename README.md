@@ -2,7 +2,7 @@
 
 Online Soccer Manager
 
-**Live demo:** [www.opensoccer.org](http://www.opensoccer.org/)
+**Live demo:** [www.europekicker.de](http://www.europekicker.de/)
 
 ## Setup
 
